@@ -1,5 +1,5 @@
-<h1 align="center">💫 About Me:</h1>
-<p align="center">Game Development student at Complutense University of Madrid.</p>
+<h1 align="center">🎄 About Me: 🎄</h1>
+<p align="center">Video Game Design & Development student at the Complutense University of Madrid.</p>
 
 
 <h2 align="center">💻 Tech Stack:</h2>
