@@ -1,4 +1,4 @@
-<h1 align="center">🎄 About Me: 🎄</h1>
+<h1 align="center">👀 About Me: 👀</h1>
 <p align="center">Video Game Design & Development student at the Complutense University of Madrid.</p>
 
 
